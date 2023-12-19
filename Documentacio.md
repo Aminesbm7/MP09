@@ -1,5 +1,6 @@
 # Crear taula users i afegir inserts
 Creem la taula users.
+
 ![imatge](/imatges_documentacio/Selecció_1362.png)
 
 # Afegir inserts a la taula usuaris
@@ -7,6 +8,7 @@ Afegim usuaris  a la nostra taula users mitjançant la consola SQL.
 ![imatge](/imatges_documentacio/Selecció_1371.png)
 
 Comprovem que el insert s'ha realitzat correctament.
+
 ![imatge](/imatges_documentacio/Selecció_1363.png)
 
 # Creem el controlador per la taula usuaris
