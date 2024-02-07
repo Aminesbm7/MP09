@@ -11,9 +11,11 @@ Editem el fitxer user blade, per mostrar el contingut de la taula users.
 ![imatge](/imatges_documentacio/Selecció_1364.png)
 
 Modifiquem el fitxer user.php per a que apunti a la base de dades users.
+
 ![imatge](/imatges_documentacio/Selecció_1366.png)
 
 Dins de routes.php, afegim la ruta al fitxer users.php.
+
 ![imatge](/imatges_documentacio/Selecció_1367.png)
 
 Resultat Tasks:
